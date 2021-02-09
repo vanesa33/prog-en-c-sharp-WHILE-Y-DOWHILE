@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while y dowhile", "while y dowhile\while y dowhile.csproj", "{1A2BD9F8-52FB-4D54-B910-CE9D97C07442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A2BD9F8-52FB-4D54-B910-CE9D97C07442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2BD9F8-52FB-4D54-B910-CE9D97C07442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2BD9F8-52FB-4D54-B910-CE9D97C07442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2BD9F8-52FB-4D54-B910-CE9D97C07442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8212F510-D3E5-40C4-9356-F95C1FB54A6A}
+	EndGlobalSection
+EndGlobal
